@@ -17,5 +17,5 @@ Things to turn in:
 Be Creative and Have Fun!
 Please follow the submission guidelines and have fun coding!
 
-## Reviewed by: 
-> Comments: 
+## Reviewed by: Hassan Sajid
+> Comments: Looks good. I suggest removing the user input as the API just requires the CPU's answers to be randomized every time you GET. Other than that it looks good. Good job!
