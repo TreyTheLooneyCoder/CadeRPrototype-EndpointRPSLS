@@ -9,6 +9,7 @@ namespace CadeRPrototype_EndpointRPSLS.Services
     {
         public string lizardSpock(string comChoice)
         {
+            
             Random rng = new Random();
             int comChoiceNum = rng.Next(6);
 
